@@ -1,0 +1,2 @@
+% Configuracion electronica de elementos:
+
